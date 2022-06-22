@@ -57,6 +57,33 @@ We plan to make it run on:
 
 ## Main competitors
 - ### [Google Calendar](https://calendar.google.com/)
+    ➕ It is multiplatform
+
+    ➕ It has an ability to make repeating tasks (just as WE plan to do)
+
+    ➕ It has ability to make meetings using Google Meet app
+
+    ➕ It allows you to plan events together (but mostly work events)
+
+    ➕ App allows you to choose what kind of event it is (events/meeting, task, reminding)
+
+    ➕ Allows to write a discription and location of event
+
+    ➕ Gives opportunity to make app start notifying about event in certain time before it starts
+
+    ➕ In app you can see your friends' rooting to find beter time to make it together
+
+    ➕ You can plan thing on days, weeks and months ahead
+
+    ➕ Setting time busyness status to let friends know when they should not disturb you from work and when your free to hang out
+
+    ➖ There is a confusing interface that will scare user who came here for the first time
+
+    ➖ It doesn't how many time is there left until the end (It shows only time when it ends)
+
+    ➖ App doesn't notify you when your activity ends
+
+
 - ### [Microsoft Outlook Calendar](https://support.microsoft.com/en-us/office/welcome-to-your-outlook-calendar-6fb9225d-9f9d-456d-8c81-8437bfcd3ebf?ui=en-us&rs=en-us&ad=us)
 - ### [Calendar](https://www.calendar.com/)
 - ### [Fantastical 2](https://flexibits.com/fantastical)
