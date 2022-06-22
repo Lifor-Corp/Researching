@@ -85,6 +85,9 @@ We plan to make it run on:
 
 
 - ### [Microsoft Outlook Calendar](https://support.microsoft.com/en-us/office/welcome-to-your-outlook-calendar-6fb9225d-9f9d-456d-8c81-8437bfcd3ebf?ui=en-us&rs=en-us&ad=us)
+    ➕ There is a way you can compare your own plans with other's plans side by side or in one calendar field at the same time
+
+
 - ### [Calendar](https://www.calendar.com/)
 - ### [Fantastical 2](https://flexibits.com/fantastical)
 - ### [Apple Calendar](https://support.apple.com/guide/icloud/use-calendar-on-icloudcom-mmd67283e4/icloud)
