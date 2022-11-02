@@ -97,3 +97,5 @@ We plan to make it run on:
 1. [ReisG](https://github.com/ReisG)
 2. [fresh-ops](https://github.com/fresh-ops)
 3. [RestScr](https://github.com/RestScr)
+
+Copyright © 2022 Roman Ryabcev All rights reserved.
